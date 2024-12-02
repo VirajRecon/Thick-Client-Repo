@@ -3,7 +3,7 @@ Creating a consolidate Repo for All things in One Place for ease of Access.
 
 Feel Free to send out Pull Request if you feel something should be there in this Thick Client REPO. WOuld be Happy to merged in this.
 
-Note: Collected essential information about testing tools, blogs, and prerequisite software. 
+Note: Collected essential information about testing tools, blogs, and prerequisite software.  
 
 TOOLS:
 Echo Mirage
